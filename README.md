@@ -18,7 +18,7 @@ The application leverages the **TMDB (The Movie Database) API** to fetch movie p
 ## 🖥️ Demo / Output
 Here’s how the app looks in action:  
 
-![Movie Recommendation Demo](output.png)  
+![Movie Recommendation Demo](output_demo.png)  
 *(Replace `output.png` with the actual file name of your screenshot inside the repo.)*  
 
 ---
