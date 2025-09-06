@@ -19,14 +19,8 @@ The application leverages the **TMDB (The Movie Database) API** to fetch movie p
 Here’s how the app looks in action:  
 
 ![Movie Recommendation Demo](output_demo.png)  
-*(Replace `output.png` with the actual file name of your screenshot inside the repo.)*  
+  
 
----
 
-## ⚙️ Installation & Usage
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/movie-recommendation-system.git
-   cd movie-recommendation-system
 
